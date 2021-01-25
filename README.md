@@ -12,14 +12,14 @@ Written in Python 3.9 using to following modules:
 * time
 
 ## Setup
-1. Comments out the while loop at the bottom, for example with #
-1. Un-comment the part that starts with *find your own values*
+1. Comment out the while loop at the bottom, for example with #
+1. Un-comment the part on top of the script that starts with *find your own values*
 1. Wait for the Brave rewards notification to show up and move the mouse on top of the orange part of the Brave icon
-1. run the script
-1. replace the values for *brave_close_x and y* as well as *brave_pix_x and y* and *pixel_compare_value*
-1. reverse points 1 and 2
+1. Run the script
+1. Replace the values for *brave_close_x and y* as well as *brave_pix_x and y* and *pixel_compare_value*
+1. Reverse points 1 and 2
 1. *sleep_timer* defines the pause between each execution of the script
-1. use the Windows Task Scheduler to run the script on Log-on, [see here for example](https://community.esri.com/t5/python-documents/schedule-a-python-script-using-windows-task-scheduler/ta-p/915861), you can use **pyw.exe** to run the script without a cmd window
+1. Use the Windows Task Scheduler to run the script on Log-on, [see here for example](https://community.esri.com/t5/python-documents/schedule-a-python-script-using-windows-task-scheduler/ta-p/915861), you can use **pyw.exe** to run the script without a cmd window
 
 
 ## Known limitations
