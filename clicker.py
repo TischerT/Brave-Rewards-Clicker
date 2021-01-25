@@ -9,13 +9,13 @@ mouse = Controller()
 # set default values of variables
 # tested on Win10, 1920x1280, default taskbar size and position
 # position of the close botton of the brave for windows notification
-brave_close_x = 1630
-brave_close_y = 1030
+brave_close_x = 1725
+brave_close_y = 995
 # postion of an orange pixel of the brave icon in the notification area
-brave_pix_x = 1469
-brave_pix_y = 952
+brave_pix_x = 1561
+brave_pix_y = 931
 # how often the script is run in seconds
-sleep_timer = 10
+sleep_timer = 5
 # pixel value to compare in RGB, default (255, 85, 0) is orange
 pixel_compare_val = (255, 85, 0)
 
