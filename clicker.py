@@ -57,5 +57,5 @@ def close_brave_notify():
 while True:
     if check_pixel_val() is True:
         close_brave_notify()
-    print(check_pixel_val())
+    # print(check_pixel_val())
     time.sleep(sleep_timer)
